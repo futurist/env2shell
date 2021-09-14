@@ -1,0 +1,16 @@
+{
+  "name": "env2sh",
+  "version": "1.0.1",
+  "description": "export env.json key/value as bash shell exports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
